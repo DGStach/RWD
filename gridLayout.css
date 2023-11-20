@@ -34,3 +34,16 @@
     background-color: rgba(255, 255, 255, 0.8);
     border: solid rgba(0,0,0,0.5) 2px;
 }
+.grid-container3{
+    grid-template-columns: auto auto auto;
+    display: inline-grid;
+    gap: 10px;
+    padding: 20px;
+    background-color: #2196F3;
+}
+.grid3{
+    border: 2px solid rgba(0,0,0,0.5);
+    padding: 20px;
+    background-color: rgba(255,255,255,0.4);
+    font-size: 40px;
+}
